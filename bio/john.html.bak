@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>John McGee</title>
+</head>
+<body>
+<h1>Biography</h1>
+<hr>
+<img src="/images/pic.jpg" height="100px" width="120px"/>
+<hr>
+<span>Reading,PA</span>
+
+<div>
+<p>I enjoy playing guitar in my free time and hanging out with my family.
+<br>My favorite animal is a dragon.
+<br>I enjoy learning more about coding and cybersecurity</p>
+</div>
+<hr>
+<a href="https://github.com/johmcg/">GitHub</a>
+</body>
+</html>
